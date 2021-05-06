@@ -10,3 +10,9 @@ This repository shows my projects during the data immersion course from Alura.
 * Class 03: Correlations and Causality
 * Class 04: Merge and Analysis of Results
 * Class 05: Machine Learning and Scikit Learn
+
+
+Bibliography:
+https://www.alura.com.br/
+https://www.kaggle.com/c/lish-moa/overview/description
+https://www.alura.com.br/artigos/manipulacao-de-strings-no-pandas-lower-replace-startswith-e-contains?gclid=Cj0KCQjwp86EBhD7ARIsAFkgakim2tZnWE1_SW_yfc4DYvZ7geU2Q9Q-0EIyyCBn7l8T7xlF5G9gipoaAqUwEALw_wcB
