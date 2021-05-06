@@ -5,7 +5,7 @@
 
 
 This repository shows my projects during the data immersion course from Alura. The study is based on the database Mechanisms of Action (MoA) Prediction from Kaggle. 
-The database extracted is from a project within the Broad Institute of MIT and Harvard, present the challenge of advancing drug development through improvements to MoA prediction algorithms. The dataset combines gene expression and cell viability data and has been split into testing and training subsets.
+The database extracted is from a project within MIT and Harvard, present the challenge of advancing drug development through improvements to MoA prediction algorithms. The dataset combines gene expression and cell viability data and has been split into testing and training subsets.
 
 
 * Class 01: Python, Pandas and Pharmacy
