@@ -4,7 +4,7 @@
 <img src="https://github.com/raquelcolares/Imersao_Dados_Alura/blob/main/imers%C3%A3o%20alura.png" width="300">
 
 
-This repository shows my projects during the data immersion course from Alura. The study is based on the database Mechanisms of Action (MoA) Prediction from Kaggle. 
+This repository shows my projects during the data immersion course by Alura. The study is based on the database Mechanisms of Action (MoA) Prediction from Kaggle. 
 The database extracted is from a project within MIT and Harvard, it presents the challenge of advancing drug development through improvements to MoA prediction algorithms. The dataset combines gene expression and cell viability data and has been split into testing and training subsets.
 
 
