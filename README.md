@@ -24,3 +24,5 @@ https://www.alura.com.br/
 https://www.kaggle.com/c/lish-moa/overview/description
 
 https://www.alura.com.br/artigos/manipulacao-de-strings-no-pandas-lower-replace-startswith-e-contains?gclid=Cj0KCQjwp86EBhD7ARIsAFkgakim2tZnWE1_SW_yfc4DYvZ7geU2Q9Q-0EIyyCBn7l8T7xlF5G9gipoaAqUwEALw_wcB
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html
