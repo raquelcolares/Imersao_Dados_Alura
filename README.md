@@ -17,7 +17,9 @@ The database extracted is from a project within MIT and Harvard, it presents the
 
 
 
-#### Bibliography:
+
+### Bibliography:
+
 
 **Alura** - https://www.alura.com.br/
 
