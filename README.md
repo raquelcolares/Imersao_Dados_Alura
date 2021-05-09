@@ -19,10 +19,12 @@ The database extracted is from a project within MIT and Harvard, it presents the
 
 #### Bibliography:
 
-https://www.alura.com.br/
+**Alura** - https://www.alura.com.br/
 
-https://www.kaggle.com/c/lish-moa/overview/description
+**Kaggle** - https://www.kaggle.com/c/lish-moa/overview/description
 
-https://www.alura.com.br/artigos/manipulacao-de-strings-no-pandas-lower-replace-startswith-e-contains?gclid=Cj0KCQjwp86EBhD7ARIsAFkgakim2tZnWE1_SW_yfc4DYvZ7geU2Q9Q-0EIyyCBn7l8T7xlF5G9gipoaAqUwEALw_wcB
+**Alura- Manipulação de strings no pandas** - https://www.alura.com.br/artigos/manipulacao-de-strings-no-pandas-lower-replace-startswith-e-contains?gclid=Cj0KCQjwp86EBhD7ARIsAFkgakim2tZnWE1_SW_yfc4DYvZ7geU2Q9Q-0EIyyCBn7l8T7xlF5G9gipoaAqUwEALw_wcB
 
-https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html
+**Pandas** - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html
+
+**Scikit Learn** - https://scikit-learn.org/stable/index.html
